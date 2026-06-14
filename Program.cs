@@ -1,4 +1,4 @@
-// Login Feature version git checkout main
+// Login Feature version
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
